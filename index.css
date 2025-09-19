@@ -1,0 +1,88 @@
+h1 {
+  color: #e0d3c2;
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: 35pt;
+  font-style: bold;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: #7f4f3f;
+  text-shadow: 2px 1px 2px #472e22;
+}
+
+.title-divider {
+  width: 600px;
+  height: 2px;
+  background-color: #6d4633;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+
+#tagline {
+  font-family: "Times New Roman";
+  text-align: center;
+  font-style: bold;
+  font-size: 20pt;
+  color: #ebdecd;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  max-width: 475px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.5;
+  text-shadow: 2px 1px 1px #503b34;
+}
+
+body {
+  background-color: #b89584;
+}
+
+.product-title {
+  font-size: 20pt;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.product {
+  max-width: 530px;
+  border-radius: 20px;
+  background-color: #7f4f3f;
+  text-align: center;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: bold;
+  line-height: 1.5;
+  color: #e0d3c2;
+  text-shadow: 2px 1px 1px #472e22;
+  box-shadow: 5px 5px 5px #503b34;
+}
+
+button {
+  padding: 10px;
+  background-color: #dbc09c;
+  color: rgb(102, 61, 61);
+  font-style: bold;
+  border-radius: 10pt;
+  font-style: bold;
+  font-size: 12pt;
+  border-color: #e0d3c2;
+  box-shadow: 2px 2px 2px #503b34;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(139, 115, 82);
+  color: aliceblue;
+}
+
+.new-price {
+  font-size: 18pt;
+  color: rgb(140, 228, 132);
+  font-style: bold;
+}
+
+#old-price {
+  color: rgb(253, 128, 128);
+}
